@@ -1,0 +1,72 @@
+html {background-image: url("swingersbkgd.jpg")  ;
+}
+h1 {display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 500px}
+
+.title { display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 500px
+ }
+strong {display: block;
+	font-size: 250%;
+	font-family: Helvetica;
+	background-color: white;
+	width: 400px;
+	border: 25px solid black;
+	padding: 10px;
+	margin: 50px;
+	margin-bottom: 50px
+}
+img {display: block;
+margin-right: auto;
+margin-right: auto;
+}
+
+footer {
+display: block;
+font-family: Helvetica;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+padding: 8px;
+background-color: #dddddd;
+text-transform: uppercase;
+}
+.wikipage:hover{
+	background-color: red;
+	color: white
+}
+
+table {background-color: white}
+
+#swingers {
+position: relative;
+margin-left: auto;
+padding: 25px
+}
+
+.imbdpage {font-family: helvetica;
+font-size: 120%
+}
+
+a:visited {color: red
+}
+
+@media screen and (max-width: 570px) {
+  strong {display: block;
+	font-size: 150%;
+	font-family: Helvetica;
+	background-color: white;
+	width: 250px;
+	border: 15px solid black;
+	padding: 5px;
+	margin: 50px;
+	margin-bottom: 50px
+  }
+}
+
